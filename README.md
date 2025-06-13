@@ -1,6 +1,6 @@
 # 🛒 Amazon Clone - Homepage
 
-A frontend clone of the Amazon India homepage built using **HTML** and **CSS**. This project replicates the layout and design of the real Amazon homepage for practice and learning UI development skills.
+A frontend clone of the Amazon homepage built using **HTML** and **CSS**. This project replicates the layout and design of the real Amazon homepage for practice and learning UI development skills.
 
 ---
 
